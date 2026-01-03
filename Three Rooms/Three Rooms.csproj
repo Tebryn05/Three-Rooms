@@ -6,6 +6,7 @@
     <RootNamespace>Three_Rooms</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>ThreeRooms</PackageId>
   </PropertyGroup>
 
 </Project>
